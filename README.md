@@ -35,10 +35,9 @@ pytest test_scraper.py --cov=scraper --cov-report=html --cov-report=term
 - Python 3.11 ou superior
 - pip
 
-
-// Possíveis melhorias : 
+ Possíveis melhorias : 
    Uso de um orm como  sqlachemy
    Melhoria no cli com typer
    Uso da lib scrapy
    executar o projeto no docker usando grid para não ter necessidade de instalar drive na maquina.
-# quotes-scraper
+
