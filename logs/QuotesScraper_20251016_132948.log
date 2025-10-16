@@ -1,0 +1,236 @@
+2025-10-16 13:29:48 - QuotesScraper - INFO - Banco de dados inicializado: data\quotes.db
+2025-10-16 13:29:48 - QuotesScraper - INFO - Scheduler iniciado
+2025-10-16 13:29:49 - QuotesScraper - INFO - Iniciando scrape com screenshot PNG...
+2025-10-16 13:29:51 - QuotesScraper - INFO - Chrome WebDriver inicializado
+2025-10-16 13:29:51 - QuotesScraper - INFO - Capturando screenshot de: http://quotes.toscrape.com/page/1/
+2025-10-16 13:29:52 - QuotesScraper - INFO - 📸 Screenshot salvo: screenshots\screenshot_20251016_132949.png
+2025-10-16 13:29:53 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/1/
+2025-10-16 13:29:53 - QuotesScraper - INFO - Extraídas 10 citações da página
+2025-10-16 13:29:53 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/2/
+2025-10-16 13:29:53 - QuotesScraper - INFO - Extraídas 10 citações da página
+2025-10-16 13:29:53 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/3/
+2025-10-16 13:29:53 - QuotesScraper - INFO - Extraídas 10 citações da página
+2025-10-16 13:29:53 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/4/
+2025-10-16 13:29:53 - QuotesScraper - INFO - Extraídas 10 citações da página
+2025-10-16 13:29:53 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/5/
+2025-10-16 13:29:53 - QuotesScraper - INFO - Extraídas 10 citações da página
+2025-10-16 13:29:53 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/6/
+2025-10-16 13:29:53 - QuotesScraper - INFO - Extraídas 10 citações da página
+2025-10-16 13:29:54 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/7/
+2025-10-16 13:29:54 - QuotesScraper - INFO - Extraídas 10 citações da página
+2025-10-16 13:29:54 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/8/
+2025-10-16 13:29:54 - QuotesScraper - INFO - Extraídas 10 citações da página
+2025-10-16 13:29:54 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/9/
+2025-10-16 13:29:54 - QuotesScraper - INFO - Extraídas 10 citações da página
+2025-10-16 13:29:54 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/10/
+2025-10-16 13:29:54 - QuotesScraper - INFO - Extraídas 10 citações da página
+2025-10-16 13:29:54 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/11/
+2025-10-16 13:29:54 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:54 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/12/
+2025-10-16 13:29:54 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:54 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/13/
+2025-10-16 13:29:54 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:55 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/14/
+2025-10-16 13:29:55 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:55 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/15/
+2025-10-16 13:29:55 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:55 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/16/
+2025-10-16 13:29:55 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:55 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/17/
+2025-10-16 13:29:55 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:55 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/18/
+2025-10-16 13:29:55 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:55 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/19/
+2025-10-16 13:29:55 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:56 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/20/
+2025-10-16 13:29:56 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:56 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/21/
+2025-10-16 13:29:56 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:56 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/22/
+2025-10-16 13:29:56 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:56 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/23/
+2025-10-16 13:29:56 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:56 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/24/
+2025-10-16 13:29:56 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:56 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/25/
+2025-10-16 13:29:56 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:56 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/26/
+2025-10-16 13:29:56 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:57 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/27/
+2025-10-16 13:29:57 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:57 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/28/
+2025-10-16 13:29:57 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:57 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/29/
+2025-10-16 13:29:57 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:57 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/30/
+2025-10-16 13:29:57 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:57 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/31/
+2025-10-16 13:29:57 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:57 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/32/
+2025-10-16 13:29:57 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:57 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/33/
+2025-10-16 13:29:57 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:58 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/34/
+2025-10-16 13:29:58 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:58 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/35/
+2025-10-16 13:29:58 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:58 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/36/
+2025-10-16 13:29:58 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:58 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/37/
+2025-10-16 13:29:58 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:58 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/38/
+2025-10-16 13:29:58 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:58 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/39/
+2025-10-16 13:29:58 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:59 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/40/
+2025-10-16 13:29:59 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:59 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/41/
+2025-10-16 13:29:59 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:59 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/42/
+2025-10-16 13:29:59 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:59 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/43/
+2025-10-16 13:29:59 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:59 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/44/
+2025-10-16 13:29:59 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:59 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/45/
+2025-10-16 13:29:59 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:29:59 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/46/
+2025-10-16 13:29:59 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:00 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/47/
+2025-10-16 13:30:00 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:00 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/48/
+2025-10-16 13:30:00 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:00 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/49/
+2025-10-16 13:30:00 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:00 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/50/
+2025-10-16 13:30:00 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:00 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/51/
+2025-10-16 13:30:00 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:00 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/52/
+2025-10-16 13:30:00 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:00 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/53/
+2025-10-16 13:30:00 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:01 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/54/
+2025-10-16 13:30:01 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:01 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/55/
+2025-10-16 13:30:01 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:01 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/56/
+2025-10-16 13:30:01 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:01 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/57/
+2025-10-16 13:30:01 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:01 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/58/
+2025-10-16 13:30:01 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:01 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/59/
+2025-10-16 13:30:01 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:02 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/60/
+2025-10-16 13:30:02 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:02 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/61/
+2025-10-16 13:30:02 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:02 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/62/
+2025-10-16 13:30:02 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:02 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/63/
+2025-10-16 13:30:02 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:02 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/64/
+2025-10-16 13:30:02 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:02 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/65/
+2025-10-16 13:30:02 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:02 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/66/
+2025-10-16 13:30:02 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:03 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/67/
+2025-10-16 13:30:03 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:03 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/68/
+2025-10-16 13:30:03 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:03 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/69/
+2025-10-16 13:30:03 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:03 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/70/
+2025-10-16 13:30:03 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:03 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/71/
+2025-10-16 13:30:03 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:03 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/72/
+2025-10-16 13:30:03 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:03 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/73/
+2025-10-16 13:30:03 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:04 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/74/
+2025-10-16 13:30:04 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:04 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/75/
+2025-10-16 13:30:04 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:04 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/76/
+2025-10-16 13:30:04 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:04 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/77/
+2025-10-16 13:30:04 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:04 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/78/
+2025-10-16 13:30:04 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:04 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/79/
+2025-10-16 13:30:04 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:05 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/80/
+2025-10-16 13:30:05 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:05 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/81/
+2025-10-16 13:30:05 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:05 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/82/
+2025-10-16 13:30:05 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:05 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/83/
+2025-10-16 13:30:05 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:05 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/84/
+2025-10-16 13:30:05 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:05 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/85/
+2025-10-16 13:30:05 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:05 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/86/
+2025-10-16 13:30:05 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:06 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/87/
+2025-10-16 13:30:06 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:06 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/88/
+2025-10-16 13:30:06 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:06 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/89/
+2025-10-16 13:30:06 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:06 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/90/
+2025-10-16 13:30:06 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:06 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/91/
+2025-10-16 13:30:06 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:06 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/92/
+2025-10-16 13:30:06 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:06 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/93/
+2025-10-16 13:30:06 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:07 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/94/
+2025-10-16 13:30:07 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:07 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/95/
+2025-10-16 13:30:07 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:07 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/96/
+2025-10-16 13:30:07 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:07 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/97/
+2025-10-16 13:30:07 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:07 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/98/
+2025-10-16 13:30:07 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:07 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/99/
+2025-10-16 13:30:07 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:08 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/100/
+2025-10-16 13:30:08 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:08 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/101/
+2025-10-16 13:30:08 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:08 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/102/
+2025-10-16 13:30:08 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:08 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/103/
+2025-10-16 13:30:08 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:08 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/104/
+2025-10-16 13:30:08 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:08 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/105/
+2025-10-16 13:30:08 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:08 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/106/
+2025-10-16 13:30:08 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:09 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/107/
+2025-10-16 13:30:09 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:09 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/108/
+2025-10-16 13:30:09 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:09 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/109/
+2025-10-16 13:30:09 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:09 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/110/
+2025-10-16 13:30:09 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:09 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/111/
+2025-10-16 13:30:09 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:09 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/112/
+2025-10-16 13:30:09 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:09 - QuotesScraper - INFO - ✓ Página carregada: http://quotes.toscrape.com/page/113/
+2025-10-16 13:30:09 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 13:30:10 - QuotesScraper - INFO - Scheduler parado
+2025-10-16 13:30:30 - QuotesScraper - INFO - WebDriver fechado
+2025-10-16 13:30:51 - QuotesScraper - INFO - WebDriver fechado
+2025-10-16 13:31:11 - QuotesScraper - INFO - WebDriver fechado

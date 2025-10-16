@@ -1,0 +1,48 @@
+2025-10-16 11:48:40 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:40 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:40 - QuotesScraper - INFO - Extraídas 1 citações da página
+2025-10-16 11:48:40 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:40 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:40 - QuotesScraper - INFO - Extraídas 2 citações da página
+2025-10-16 11:48:40 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:40 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:40 - QuotesScraper - INFO - ✓ Página carregada: http://test.com
+2025-10-16 11:48:40 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:40 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:40 - QuotesScraper - WARNING - Tentativa 1/3 falhou: Connection error
+2025-10-16 11:48:41 - QuotesScraper - WARNING - Tentativa 2/3 falhou: Connection error
+2025-10-16 11:48:43 - QuotesScraper - WARNING - Tentativa 3/3 falhou: Connection error
+2025-10-16 11:48:47 - QuotesScraper - ERROR - Falha ao carregar http://test.com
+2025-10-16 11:48:47 - QuotesScraper - INFO - Salvo: C:\Users\tiago\AppData\Local\Temp\pytest-of-tiago\pytest-4\test_save_json0\test_quotes.json
+2025-10-16 11:48:47 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:47 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:47 - QuotesScraper - INFO - Salvo: C:\Users\tiago\AppData\Local\Temp\pytest-of-tiago\pytest-4\test_save_csv0\test_quotes.csv
+2025-10-16 11:48:47 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:47 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:47 - QuotesScraper - INFO - Banco de dados inicializado: C:\Users\tiago\AppData\Local\Temp\tmp9okwy44m\test_quotes.db
+2025-10-16 11:48:47 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:47 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:47 - QuotesScraper - INFO - Banco de dados inicializado: C:\Users\tiago\AppData\Local\Temp\tmp5heemzua\test_quotes.db
+2025-10-16 11:48:47 - QuotesScraper - INFO - Banco de dados inicializado: C:\Users\tiago\AppData\Local\Temp\tmppb291hwj\test_quotes.db
+2025-10-16 11:48:47 - QuotesScraper - DEBUG - Citação duplicada: The world as we have created it is a process of ou...
+2025-10-16 11:48:47 - QuotesScraper - INFO - Banco de dados inicializado: C:\Users\tiago\AppData\Local\Temp\tmp0d0dzo2_\test_quotes.db
+2025-10-16 11:48:47 - QuotesScraper - INFO - Banco de dados inicializado: C:\Users\tiago\AppData\Local\Temp\tmpxw3fwzc6\test_quotes.db
+2025-10-16 11:48:48 - QuotesScraper - INFO - Banco de dados inicializado: C:\Users\tiago\AppData\Local\Temp\tmp6so0evhm\test_quotes.db
+2025-10-16 11:48:48 - QuotesScraper - INFO - Banco de dados inicializado: C:\Users\tiago\AppData\Local\Temp\tmpc9h38ym7\test_quotes.db
+2025-10-16 11:48:48 - QuotesScraper - INFO - DataFrame criado com 1 linhas
+2025-10-16 11:48:48 - QuotesScraper - INFO - Banco de dados inicializado: C:\Users\tiago\AppData\Local\Temp\tmpxxhimy2a\test_quotes.db
+2025-10-16 11:48:48 - QuotesScraper - INFO - DataFrame criado com 3 linhas
+2025-10-16 11:48:48 - QuotesScraper - INFO - ✓ Página carregada: http://test.com
+2025-10-16 11:48:48 - QuotesScraper - INFO - Extraídas 1 citações da página
+2025-10-16 11:48:48 - QuotesScraper - INFO - Banco de dados inicializado: C:\Users\tiago\AppData\Local\Temp\tmpx0_cb4n1\test_quotes.db
+2025-10-16 11:48:48 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:48 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:48 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 11:48:48 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:48 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:48 - QuotesScraper - INFO - Extraídas 0 citações da página
+2025-10-16 11:48:48 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:48 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:48 - QuotesScraper - INFO - Extraídas 1 citações da página
+2025-10-16 11:48:48 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
+2025-10-16 11:48:48 - QuotesScraper - WARNING - Erro ao fechar WebDriver: 'NoneType' object has no attribute 'quit'
